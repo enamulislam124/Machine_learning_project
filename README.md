@@ -110,3 +110,8 @@ To stop docker image
 ```
 docker stop<container id>
 ```
+
+```
+Install ipykernel
+```
+pip install ipykernel
